@@ -40,3 +40,5 @@ def insert2(lst, index, item):
     new_lst = lst1 + lst2
     return new_lst
 print(insert2([1, 2, 4, 7, 9, 10], 3, 4321))
+
+print(insert2([1, 3, 4, 7], 0, 10
